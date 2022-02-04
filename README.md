@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeeveeSam
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on statistical computing
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently taking courses on data analytics
+- 💞️ I’m looking to collaborate on analytical computing
 - 📫 How to reach me divine.samuel@stu.cu.edu.ng
 
 <!---
